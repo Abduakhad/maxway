@@ -478,7 +478,8 @@ a {
 .application {
   width: 100%;
   padding: 75px 94px;
-  background-image: url("../assets/images/application-bg.png"), url("../assets/images/application-bg.svg");
+  background-image: url("../assets/images/application-bg.png"), 
+  url("../assets/images/application-bg.svg");
   background-position: calc(50% + 300px) -135px, calc(50% + 500px);
   background-repeat: no-repeat;
   background-color: #800A7A;
